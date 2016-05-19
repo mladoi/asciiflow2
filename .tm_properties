@@ -1,6 +1,6 @@
 # Settings
 projectDirectory     = "$CWD"
 windowTitle          = "$TM_DISPLAYNAME - asciiflow2"
-projectExtraIncludes = "jquery*,jscompiled,node_modules,images"
+projectExtraIncludes = "jquery*,js-compiled*,node_modules,images"
 excludeInFileChooser = "{$excludeInFileChooser,$projectExtraIncludes}"
 excludeInFolderSearch = "{$excludeInFolderSearch,$projectExtraIncludes}"
