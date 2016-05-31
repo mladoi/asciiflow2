@@ -1,0 +1,9 @@
+Some analysis...
+
+What is the responsibility of __State__?
+public methods
+clear, getCell, drawValue..., getContext, commitDraw, undo, redo, outputText, fromText
+It exposes its internal data by getCell.
+
+used by: View, Controller, DriveController
+
